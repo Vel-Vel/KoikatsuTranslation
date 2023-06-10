@@ -2,12 +2,12 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「さてと、今日はどんな活動をするかな」=“Now then, what should I do today?”
-ぼんやりと呟きながら廊下を歩く。=Slowly contemplating, I walked down the hallway.
-本当は部員の勧誘なんかもしなきゃいけないんだけど、いつもいつもそういうテンションでいられるわけもない。=I should really be out recruiting new members, but it's not like I can be that high-strung all the time.
-（女子校に男一人だもんな）=(Well when you're the only guy in school, it's inevitable I guess)
-正直、半端じゃない心細さだ。=Feels lonely as heck you know?
-とはいえ、そういう役目でここにいるのも事実。=But hey, that's why I'm here in the first place.
-何とかしなきゃなぁと思いながら、歩いていると……。=I continued down the hallway, worrying about my lack of action. When...
+ぼんやりと呟きながら廊下を歩く。=I muttered to myself as I walked down the hallway.
+本当は部員の勧誘なんかもしなきゃいけないんだけど、いつもいつもそういうテンションでいられるわけもない。=I really should be recruiting new club members, but I can't be that high-strung all the time.
+（女子校に男一人だもんな）=(One guy in an all-girls school.)
+正直、半端じゃない心細さだ。=Frankly, this feels incredibly lonely.
+とはいえ、そういう役目でここにいるのも事実。=That said, that's why I'm here in the first place.
+何とかしなきゃなぁと思いながら、歩いていると……。=I thought I should do something as I walked, when...
 女の子=Girl
 「こんにちはなのですー！」=“Hello there!”
 「ん……？」=“Hmm...?”
