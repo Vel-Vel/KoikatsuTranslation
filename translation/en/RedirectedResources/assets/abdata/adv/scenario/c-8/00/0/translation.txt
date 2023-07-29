@@ -35,7 +35,7 @@
 「ふおお、初対面なのに名前が分かるということは！　あなたはエスパーさんの類いですか！？」=“Ooh, you already know my name even though we just met! Mayhaps you're some sort of esper!?”
 「いやごめん、名前は今知ったばかりだよ。漫研部ってことが聞こえてきて……」=“No, sorry, I just learned your name. I heard the Manga Club...”
 「そちらでありましたか！　なるほどなるほど！」=“So that was what you mean! I see, I see!”
-ふんふんと頷きながら、俺の前で右左。=She nodded her head while sidestepping in front of me from left to right.
+ふんふんと頷きながら、俺の前で右左。=She looked at me up and down while sidestepping in front of me.
 どうやら道を空けてくれる気はないらしい。=Looks like she isn't going to make way any time soon.
 どうしたものかと考えていると、急に柊さんがにっこり笑った。=As I was pondering on what to do, Hiiragi-san suddenly let out a cheery smile.
 「男子学生殿、お名前を伺っても良いですか？」=“Male student-dono, may I ask your name?”
@@ -43,8 +43,8 @@
 「ほほう、なかなかに精悍なお名前！　素敵なのです！」=“Ooh, what a manly name! Absolutely charming!”
 「そ、そう？」=“R-really?”
 「はいっ！　それはもう！」=“Of course! Most certainly!”
-ここまで屈託のない笑顔でそう言われると、ちょっと照れてしまう。=I felt a bit embarrassed from hearing this with such a carefree smile.
-本当は立ち去ろうと思っていたのに、つい足を止めてしまった。=I should be leaving already, but I can't help but stay put.
+ここまで屈託のない笑顔でそう言われると、ちょっと照れてしまう。=I felt a bit embarrassed from hearing her say this with such a carefree smile.
+本当は立ち去ろうと思っていたのに、つい足を止めてしまった。=I really should be leaving already, but I feel compelled to stay put.
 「柊さんも可愛い名前だと思うよ」=“I think you also have a cute name, Hiiragi-san.”
 「……本当にそう思ってるですか？」=“...Do you really think so?”
 「本当本当。初対面だけどイメージにぴったりだと思うな」=“Really. Even though we've just met, I think it fits your image perfectly.”
@@ -52,7 +52,7 @@
 「本当にそう思ってくれるでしたら、私のこと、このみって呼んでくださいです！」=“If you really think so, then please call me Konomi!”
 「なっ……初対面なのに？」=“Waa... even though we've only just met?”
 「袖振り合うも多生の縁というです！　私と[P姓]さんはもう他人ではありません！」=“Even a chance meeting can start a beautiful relationship! Me and you, we're not strangers anymore!”
-「そ、そうなのか……？」=“I-is that so?”
+「そ、そうなのか……？」=“I-is that so...?”
 「そうなのです！」=“It is so!”
 笑顔のまま、はっきりと言い切られてしまう。=She said it straight to me while smiling.
 そこまで言われるとそう呼ぶしかない。=If you put it that way, I guess I don't really have much of a choice.
@@ -62,11 +62,11 @@
 「違うですよ。私、一年なのです」=“Nope. I'm a first-year student.”
 「一年生！？　年下なの？」=“First year!? So you're younger than me?”
 「はいー！」=“Yes!”
-またもやにっこり微笑みながら、えっへんと胸を張る。=She grinned broadly as she puffed out her chest.
-確かにその仕草を見れば年下だと分かるけど……。=Using that gesture she does resemble that of a child but...
+またもやにっこり微笑みながら、えっへんと胸を張る。=She grinned once again as she puffed out her chest.
+確かにその仕草を見れば年下だと分かるけど……。=I definitely can tell by that gesture that she's younger, but...
 「どうして一年生が部長に？」=“How's a first-year student the club president?”
 「それはですねぇ……」=“Well, you see...”
-俺の質問に少し困ったような表情を浮かべ、ゆっくりと言葉を続けた。=She began to look troubled upon hearing my question, as she slowly answers my question.
+俺の質問に少し困ったような表情を浮かべ、ゆっくりと言葉を続けた。=With a slightly troubled look upon hearing my question, as she slowly answers my question.
 「実は漫研部って私以外はみんな三年生なのです。でも受験やら何やらで、みなさん、もうほとんど部活には来てなくて……」=“Truth is that everyone else in the Manga Club are all in their third year. But lately they haven't participated in any club activities at all, be it due to exams or some other reasons.”
 「そうなんだ。それで君が……」=“Ah, so that's why you're...”
 「このみなのです！」=“Konomi!”
