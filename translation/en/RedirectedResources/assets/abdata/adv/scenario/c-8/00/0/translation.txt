@@ -73,7 +73,7 @@
 「え、えっと……このみ……ちゃんが？」=“E-eh... Konomi... chan?”
 「ふむー……分かったです。その呼び方で妥協するです」=“Hmm... Very well. I'll settle with that for now.”
 「ありがとう」=“Thank you.”
-ひとまず『ちゃん』付けで納得してくれたらしい。=Looks like “chan” is enough to appease her, at least for now.
+ひとまず『ちゃん』付けで納得してくれたらしい。=Looks like 'chan' is enough to appease her, at least for now.
 いきなり呼び捨てなんていうハードルを越えなくてすんだことにホッとする。=I'm just glad that I don't have to cross the barrier of addressing her too familiarly.
 「漫研部もかなり人数が厳しいんだね……」=“So not a lot of people in the Manga Club...”
 「そうなのです。このままいくと来年には廃部の危機なのです！」=“Exactly. If we continue like this, then the club will disband next year!”
@@ -84,7 +84,7 @@
 「そこで先輩にお願いなのですが！！」=“So, I have a favor to ask you, Senpai!!”
 「いやいやいやいや！」=“Wait wait wait wait wait!”
 ぐぐいっと近づいて来られたから、反射的に一歩下がってしまった。=I reflexively stepped back as she approached me without warning.
-なにげに『先輩』という単語にドキドキしてしまったけど。=My heart also began beating like mad when she called me “senpai”.
+なにげに『先輩』という単語にドキドキしてしまったけど。=My heart also began beating like mad when she called me 'senpai'.
 「ここまで聞いてひかないでほしーです！　私、可哀想な境遇なのですよ！？」=“Come on, don't back off now when you've heard this much! I'm in a pretty tragic situation, aren't I!?”
 「可哀想な境遇の娘がそんな笑顔を浮かべられるの！？」=“How could a poor girl smile like that!?”
 「これはコスプレをしているからです！　先輩も漫研部に入って頂ければ分かるですよ」=“It's called cosplaying! You'll understand it once you join the Manga Club, Senpai.”
