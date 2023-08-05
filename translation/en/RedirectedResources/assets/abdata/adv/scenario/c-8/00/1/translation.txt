@@ -22,7 +22,7 @@
 「いや、別にそういうわけじゃないよ？」=“No, it's not like that, okay?”
 「でもでも、こう……離れたところからそっと見ていてくれたです！」=“But but, you were like... secretly watching me from afar!”
 「それはただ、頑張ってるなぁと思ってね……」=“Well, that's just me thinking that you're doing your best...”
-「わざわざ中庭まで出てくれて？」=“So you came all the way out to the courtyard to see me”
+「わざわざ中庭まで出てくれて？」=“So you came all the way out to the courtyard to see me?”
 「違うよ！？　今日はたまたま昼食をここで食べようと思って……」=“That's not it! I just happened to come here for lunch today...”
 「なーんだ、そーでしたかー。てっきり私のコトを探してくれたのかと思ったです。残念無念」=“A-w, so that's why-. And here I thought you were looking for me. A shame indeed.”
 言葉とは裏腹、けらけらと笑いながらそんなことを言う。=Contrary to her words, she was chuckling quite satisfyingly.
