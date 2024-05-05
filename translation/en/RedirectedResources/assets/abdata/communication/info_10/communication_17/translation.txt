@@ -95,7 +95,7 @@
 「その無言で哀れむような目で訴えてくるのはやめてちょうだい」=“Could you not look at me with those eyes full of pity?”
 「あなたって動物好きな方？　猫とか」=“Do you like animals? Like cats and whatnot.”
 「猫は私も好きよ。見てると癒されるわ」=“I like cats too. Looking at them soothes my heart.”
-「奇遇ね、私も苦手よ。……可愛がっていても、別れがきてしまうもの」=“What a coincidence, me too. ...No amount of love will prevent them from dying eventually, afterall.”
+「奇遇ね、私も苦手よ。……可愛がっていても、別れがきてしまうもの」=“What a coincidence, me too. ...No amount of love will prevent them from dying eventually, after all.”
 「男の子はご飯をよく食べるのかしら」=“Suppose since you're a boy, you must eat a lot?”
 「私も普通の子より食べる方だと思うけれど、悪いことじゃないわよね？」=“I eat more than your average girl too but, that's not something bad, is it?”
 「あら、私もよ。自慢じゃないけれど、あなたよりずっと小食だと思うわ」=“Oh, me too. I wouldn't bet actual money on it, but I probably eat a lot less than you do.”
@@ -295,7 +295,7 @@
 「……ごめんなさい。やっぱりまだ気持ちの整理がつかないの」=“...I'm sorry. I really haven't managed to get my feelings in order.”
 「ねえ、あなたがもしいいならだけど……私と付き合わない？」=“Hey, if you're fine with it... won't you go out with me?”
 「いっ、いいの？　嬉しい、本当によかった……。これからよろしくね」=“Y--, You sure? Happy, I'm so happy... We're a couple now then.”
-「やっぱり、そうよね……。よければこれからも友達でいてちょうだいね」=“Right, of course... If it's fine with you, please stay my friend atleast, okay?”
+「やっぱり、そうよね……。よければこれからも友達でいてちょうだいね」=“Right, of course... If it's fine with you, please stay my friend at least, okay?”
 「答えは分かってるけれど、あなたへの気持ち諦められなくて、ダメかしら？=I already know what the answer's gonna be but, I just can't seem to get rid of my feelings for you, am I really no good?
 「それ、本当に……？　嬉しいわ、あなたの彼女になれて」=“Are you, being serious...? I'm so glad, to get to be your girlfriend.”
 「やっぱり、そうよね……けど、これからもあなたを好きでいてもいいかしら？」=“Right, of course... But, is it fine if I keep loving you as I have?”

@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「すごい……すごいよ、[P名]くん。夜空に手が届きそう」=“Amazing... it's amazing, [P名]-kun. I feel like I could touch the sky if I just reach out.”
-「ここの夜景、評判って聞いてたから……一度、[H名]と来てみたかったんだ」=“I'd heard that this spot was quite famous for the view... I really wanted to come here with you, atleast once.”
+「ここの夜景、評判って聞いてたから……一度、[H名]と来てみたかったんだ」=“I'd heard that this spot was quite famous for the view... I really wanted to come here with you, at least once.”
 「そうだったんだ……ありがとう、こんな素敵な場所に連れてきてくれて」=“I see... thank you, for bringing me to such a lovely place.”
 「ここなら、“かれら”とも交信しやすいかな？」=“Ya think it'd be easier to get in contact with them from here?”
 「うん……それどころか、すぐに宇宙へ行けそうな気さえする」=“Yeah... heck, not just get in contact, but actually have a low latency call with them.”
@@ -24,7 +24,7 @@
 「[H名]がそんなつもりじゃないのはわかってるよ」=“I know that's not what you were trying to do.”
 「でも、あんなこと言われたら、男はその気になっちゃうんだ」=“But, if you say that sort of stuff, just about any boy's gonna get in the mood.”
 「そ、そうなの……？」=“I-Is that so...?”
-「うん。だって、今の[H名]は特別だから」=“Yep. Afterall, right now, you're really special.”
+「うん。だって、今の[H名]は特別だから」=“Yep. After all, right now, you're really special.”
 「宇宙のことや、“かれら”との交信のことについて話しているときの[H名]は、すごく生き生きとしてる」=“Whenever you're talking about the space or the cosmos, or about your communication with "them", you get very animated and lively.”
 「俺は、そんな[H名]と一緒にいるのが嬉しくて、楽しいんだけど……」=“That side of you is so fun, it makes me really happy, but...”
 「今こうやって夜空に見惚れている[H名]は、なんていうか、すごく神秘的で……ずっと、見惚れてしまう」=“This side of you, the side that's enchanted by this view, how do I say this, it's so mystical to me... it's enchanting to me.”
