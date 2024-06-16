@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「はぁぁ……」=“Haah...”
-晴れわたった空を見上げ、盛大な溜息。=While looking up at the clear sky, I let out a big sigh.
+晴れわたった空を見上げ、盛大な溜息。=I let out a big sigh as I looked up the sky.
 昼食後、一人きりのまったりタイム。=After lunch, I decided to relax by myself.
 女子校での生活には少しずつ慣れてきたものの……やっぱり一人の時の方が気楽だ。=Although I'm slowly getting used to life at an all-girls school... I'm still more comfortable when I'm alone.
 「常に女子の目があるっていうのも疲れるなぁ……」=“It's exhausting to always have girls staring at me...”
